@@ -1,0 +1,25 @@
+.big-brand {
+    font-size: 1.5em;
+}
+
+.card-img {
+    height: 500px;
+    width: 600px;
+    background-image:  url('glowing-spider-web-dark-abstract-backdrop-generated-by-ai.jpg');
+}
+
+.feat-squarrel {
+    font-size: 1.9em;
+}
+
+.feat-squarrel:hover {
+    font-size: 2em;
+}
+
+.feat-squarrel-color {
+    color: black;
+}
+
+.txt-content {
+    text-align: justify;
+}
